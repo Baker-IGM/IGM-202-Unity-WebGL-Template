@@ -1,0 +1,17 @@
+{
+  "name": "com.igm.webgltemplate",
+  "version": "1.0.0",
+  "displayName": "IGM WebGL Template",
+  "description": "This is a package with the WebGL template used for IGM classes",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/Baker-IGM/IGM-202-Unity-WebGL-Template",
+  "dependencies": {
+ },
+ "keywords": [
+  ],
+  "author": {
+    "name": "Eric Baker",
+    "email": "eabigm@rit.edu"
+  }
+}
